@@ -1,0 +1,28 @@
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\bin\Debug\net10.0\QuickSearch.HelperUtilities.deps.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\bin\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\bin\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.AssemblyInfoInputs.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.AssemblyInfo.cs
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\refint\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\ref\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.Resource.QuickSearchResource.resources
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.csproj.GenerateResource.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\bin\Debug\net10.0\QuickSearch.HelperUtilities.deps.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\bin\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\bin\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.Resource.QuickSearchResource.resources
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.csproj.GenerateResource.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.AssemblyInfoInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.AssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\refint\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\HelperUtilities\obj\Debug\net10.0\ref\QuickSearch.HelperUtilities.dll

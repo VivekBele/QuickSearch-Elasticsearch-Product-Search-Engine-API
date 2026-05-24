@@ -1,0 +1,162 @@
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\appsettings.Development.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\appsettings.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.staticwebassets.endpoints.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.exe
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.deps.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.runtimeconfig.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.csproj.AssemblyReference.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.AssemblyInfoInputs.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.AssemblyInfo.cs
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\scopedcss\bundle\QuickSearch.Web.styles.css
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.development.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\swae.build.ex.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSea.7C27D90A.Up2Date
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\refint\QuickSearch.Web.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.genruntimeconfig.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\ref\QuickSearch.Web.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Api.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Api.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Clients.Elasticsearch.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Esql.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Transport.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Model.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Model.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\DnsClient.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\SharpCompress.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Snappier.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\ZstdSharp.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\appsettings.Development.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\appsettings.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.staticwebassets.endpoints.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.exe
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.deps.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.runtimeconfig.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\DnsClient.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Clients.Elasticsearch.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Esql.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Transport.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\SharpCompress.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Snappier.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\ZstdSharp.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Api.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Model.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Api.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Model.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.csproj.AssemblyReference.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.AssemblyInfoInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.AssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\scopedcss\bundle\QuickSearch.Web.styles.css
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.development.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\swae.build.ex.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSea.7C27D90A.Up2Date
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\refint\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.genruntimeconfig.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\ref\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\appsettings.Development.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\appsettings.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.staticwebassets.endpoints.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.exe
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.deps.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.runtimeconfig.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Web.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\DnsClient.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Clients.Elasticsearch.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Esql.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Elastic.Transport.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\SharpCompress.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Snappier.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\ZstdSharp.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Api.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.HelperUtilities.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Model.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Api.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.HelperUtilities.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\bin\Debug\net10.0\QuickSearch.Model.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.csproj.AssemblyReference.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.AssemblyInfoInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.AssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\scopedcss\bundle\QuickSearch.Web.styles.css
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.development.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\swae.build.ex.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSea.7C27D90A.Up2Date
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\refint\QuickSearch.Web.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\QuickSearch.Web.genruntimeconfig.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.Web\obj\Debug\net10.0\ref\QuickSearch.Web.dll

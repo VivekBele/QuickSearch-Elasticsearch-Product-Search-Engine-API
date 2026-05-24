@@ -1,0 +1,39 @@
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.deps.json
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.csproj.AssemblyReference.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.AssemblyInfoInputs.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.AssemblyInfo.cs
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\refint\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\ref\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\QuickSearch – Elasticsearch Product Search Engine\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.deps.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.csproj.AssemblyReference.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.AssemblyInfoInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.AssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\refint\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\quick-search-web-api\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\ref\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.deps.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\bin\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.csproj.AssemblyReference.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.AssemblyInfoInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.AssemblyInfo.cs
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.csproj.CoreCompileInputs.cache
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.sourcelink.json
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\refint\QuickSearch.LoggerUtility.dll
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\QuickSearch.LoggerUtility.pdb
+D:\Vivek Projects\Repos\QuickSearch-Elasticsearch-Product-Search-Engine-API\QuickSearch\QuickSearch.LoggerUtility\obj\Debug\net10.0\ref\QuickSearch.LoggerUtility.dll
