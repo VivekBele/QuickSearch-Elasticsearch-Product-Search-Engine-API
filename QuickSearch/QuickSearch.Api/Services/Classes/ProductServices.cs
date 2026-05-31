@@ -333,6 +333,7 @@ namespace QuickSearch.Api
 
                 if (!string.IsNullOrEmpty(request.Category))
                 {
+                    // Use the keyword subfield for exact term matching on analyzed text fields
                     mustQueries.Add(new TermQuery
                     {
                         Field = "category",
@@ -342,10 +343,10 @@ namespace QuickSearch.Api
 
                 if (!string.IsNullOrEmpty(request.Brand))
                 {
-                    mustQueries.Add(new TermQuery
+                    mustQueries.Add(new MatchQuery
                     {
                         Field = "brand",
-                        Value = request.Brand
+                        Query = request.Brand
                     });
                 }
 
