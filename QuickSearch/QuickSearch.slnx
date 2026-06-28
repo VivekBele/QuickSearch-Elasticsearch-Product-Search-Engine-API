@@ -3,5 +3,7 @@
   <Project Path="QuickSearch.Api/QuickSearch.Api.csproj" Id="b19b78d6-b753-4283-94cd-bc0a132876ee" />
   <Project Path="QuickSearch.LoggerUtility/QuickSearch.LoggerUtility.csproj" Id="1e9de328-c06b-463c-a6ce-6a6e7b3fb467" />
   <Project Path="QuickSearch.Model/QuickSearch.Model.csproj" Id="7be4706c-dfe6-47b0-aca1-2f3581803d37" />
+  <Project Path="QuickSearch.Data/QuickSearch.Data.csproj" Id="a0f7dfbe-6395-46f5-8d5f-4a0b2dc5f04a" />
+  <Project Path="QuickSearch.DataAccess/QuickSearch.DataAccess.csproj" Id="b4c9e8a0-2f95-46c4-8d9e-1a2c3d4e5f6a" />
   <Project Path="QuickSearch.Web/QuickSearch.Web.csproj" Id="f9b180ba-91dd-4e73-a686-0c3ed33b91df" />
 </Solution>

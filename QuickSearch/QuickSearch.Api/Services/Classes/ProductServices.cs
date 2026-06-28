@@ -1,7 +1,7 @@
-﻿using Elastic.Clients.Elasticsearch;
+using Elastic.Clients.Elasticsearch;
 using Elastic.Clients.Elasticsearch.QueryDsl;
-using Elastic.Clients.Elasticsearch.Requests;
 using Microsoft.Extensions.Options;
+using QuickSearch.DataAccess;
 using QuickSearch.HelperUtilities;
 using QuickSearch.LoggerUtility;
 using QuickSearch.Model;
@@ -14,14 +14,20 @@ namespace QuickSearch.Api
         private readonly ElasticsearchClient _client;
         private readonly ElasticsearchOptionsConfigurations _options;
         private readonly ILogger _logger;
+        private readonly IProductDbService _productDbService;
         #endregion
 
         #region Constructors
-        public ProductServices(ElasticsearchClient client, IOptions<ElasticsearchOptionsConfigurations> options, ILogger logger)
+        public ProductServices(
+            ElasticsearchClient client, 
+            IOptions<ElasticsearchOptionsConfigurations> options, 
+            ILogger logger, 
+            IProductDbService productDbService)
         {
             _client = client;
             _options = options.Value;
             _logger = logger;
+            _productDbService = productDbService;
         }
         #endregion
 
@@ -206,33 +212,40 @@ namespace QuickSearch.Api
             }
         }
 
-        public async Task<ProductResponse?> GetProduct(long productId)
+        public async Task<ProductResponse?> GetProduct(long productId, bool isFromElastic = true)
         {
             await _logger.LogAsync(new LoggerRequestModel
             {
-                Message = "GetProduct execution started.",
+                Message = $"GetProduct execution started. isFromElastic: {isFromElastic}",
                 Timestamp = DateTime.UtcNow,
                 Level = "Information",
                 Source = "ProductServices"
             });
             try
             {
-                string index = _options.GetIndex(QuickSearchConstants.ProductIndex);
-                GetResponse<ProductResponse> product = await _client.GetAsync<ProductResponse>(productId, g => g.Index(index));
-
-                if (!product.IsValidResponse)
+                if (isFromElastic)
                 {
-                    await _logger.LogAsync(new LoggerRequestModel
-                    {
-                        Message = "GetProduct: Elasticsearch returned invalid response.",
-                        Timestamp = DateTime.UtcNow,
-                        Level = "Warning",
-                        Source = "ProductServices"
-                    });
-                    return null;
-                }
+                    string index = _options.GetIndex(QuickSearchConstants.ProductIndex);
+                    GetResponse<ProductResponse> product = await _client.GetAsync<ProductResponse>(productId, g => g.Index(index));
 
-                return product.Source;
+                    if (!product.IsValidResponse)
+                    {
+                        await _logger.LogAsync(new LoggerRequestModel
+                        {
+                            Message = "GetProduct: Elasticsearch returned invalid response.",
+                            Timestamp = DateTime.UtcNow,
+                            Level = "Warning",
+                            Source = "ProductServices"
+                        });
+                        return null;
+                    }
+
+                    return product.Source;
+                }
+                else
+                {
+                    return await _productDbService.GetProductFromDbAsync((int)productId);
+                }
             }
             catch (Exception ex)
             {
@@ -369,8 +382,8 @@ namespace QuickSearch.Api
                         if (!string.IsNullOrEmpty(request.SortField))
                         {
                             var order = request.SortOrder?.ToLower() == "desc"
-                                ? SortOrder.Desc
-                                : SortOrder.Asc;
+                                ? Elastic.Clients.Elasticsearch.SortOrder.Desc
+                                : Elastic.Clients.Elasticsearch.SortOrder.Asc;
 
                             srt.Field(request.SortField, order);
                         }
@@ -403,19 +416,141 @@ namespace QuickSearch.Api
         {
             await _logger.LogAsync(new LoggerRequestModel
             {
-                Message = "SearchDatabaseProducts called but not implemented.",
+                Message = "SearchDatabaseProducts execution started.",
                 Timestamp = DateTime.UtcNow,
                 Level = "Information",
                 Source = "ProductServices"
             });
 
-            return new PagedResponse<ProductResponse>
+            try
             {
-                Items = Enumerable.Empty<ProductResponse>(),
-                Total = 0,
-                PageNumber = request.PageNumber,
-                PageSize = request.PageSize
-            };
+                return await _productDbService.SearchDatabaseProductsAsync(request);
+            }
+            catch (Exception ex)
+            {
+                await _logger.LogAsync(new LoggerRequestModel
+                {
+                    Message = $"Error in SearchDatabaseProducts: {ex.Message}",
+                    Timestamp = DateTime.UtcNow,
+                    Level = "Error",
+                    Source = "ProductServices"
+                });
+                throw;
+            }
+        }
+
+        public async Task<bool> UpdateProduct(ProductResponse product)
+        {
+            await _logger.LogAsync(new LoggerRequestModel
+            {
+                Message = $"UpdateProduct execution started for Product Id: {product.Id}.",
+                Timestamp = DateTime.UtcNow,
+                Level = "Information",
+                Source = "ProductServices"
+            });
+
+            try
+            {
+                bool success = await _productDbService.UpdateProductInDbAsync(product);
+
+                if (success)
+                {
+                    // Update Elasticsearch
+                    string index = _options.GetIndex(QuickSearchConstants.ProductIndex);
+                    var esResponse = await _client.IndexAsync(product, idx => idx.Index(index).Id(product.Id));
+                    if (!esResponse.IsValidResponse)
+                    {
+                        await _logger.LogAsync(new LoggerRequestModel
+                        {
+                            Message = $"Product {product.Id} updated in DB but Elasticsearch update failed: {esResponse.DebugInformation}",
+                            Timestamp = DateTime.UtcNow,
+                            Level = "Warning",
+                            Source = "ProductServices"
+                        });
+                    }
+                    else
+                    {
+                        await _logger.LogAsync(new LoggerRequestModel
+                        {
+                            Message = $"Product {product.Id} updated successfully in DB and Elasticsearch.",
+                            Timestamp = DateTime.UtcNow,
+                            Level = "Information",
+                            Source = "ProductServices"
+                        });
+                    }
+                    return true;
+                }
+
+                return false;
+            }
+            catch (Exception ex)
+            {
+                await _logger.LogAsync(new LoggerRequestModel
+                {
+                    Message = $"Error in UpdateProduct: {ex.Message}",
+                    Timestamp = DateTime.UtcNow,
+                    Level = "Error",
+                    Source = "ProductServices"
+                });
+                throw;
+            }
+        }
+
+        public async Task<bool> DeleteProduct(long productId)
+        {
+            await _logger.LogAsync(new LoggerRequestModel
+            {
+                Message = $"DeleteProduct execution started for Product Id: {productId}.",
+                Timestamp = DateTime.UtcNow,
+                Level = "Information",
+                Source = "ProductServices"
+            });
+
+            try
+            {
+                bool success = await _productDbService.DeleteProductFromDbAsync((int)productId);
+
+                if (success)
+                {
+                    // Delete from Elasticsearch
+                    string index = _options.GetIndex(QuickSearchConstants.ProductIndex);
+                    var esResponse = await _client.DeleteAsync<ProductResponse>(productId, idx => idx.Index(index));
+                    if (!esResponse.IsValidResponse)
+                    {
+                        await _logger.LogAsync(new LoggerRequestModel
+                        {
+                            Message = $"Product {productId} deleted from DB but Elasticsearch deletion failed: {esResponse.DebugInformation}",
+                            Timestamp = DateTime.UtcNow,
+                            Level = "Warning",
+                            Source = "ProductServices"
+                        });
+                    }
+                    else
+                    {
+                        await _logger.LogAsync(new LoggerRequestModel
+                        {
+                            Message = $"Product {productId} deleted successfully from DB and Elasticsearch.",
+                            Timestamp = DateTime.UtcNow,
+                            Level = "Information",
+                            Source = "ProductServices"
+                        });
+                    }
+                    return true;
+                }
+
+                return false;
+            }
+            catch (Exception ex)
+            {
+                await _logger.LogAsync(new LoggerRequestModel
+                {
+                    Message = $"Error in DeleteProduct: {ex.Message}",
+                    Timestamp = DateTime.UtcNow,
+                    Level = "Error",
+                    Source = "ProductServices"
+                });
+                throw;
+            }
         }
 
         private long ExtractTotalFromResponse<T>(SearchResponse<T> resp) where T : class

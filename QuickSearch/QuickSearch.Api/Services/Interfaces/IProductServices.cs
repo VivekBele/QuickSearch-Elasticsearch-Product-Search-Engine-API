@@ -1,4 +1,4 @@
-﻿using Elastic.Clients.Elasticsearch;
+using Elastic.Clients.Elasticsearch;
 using QuickSearch.Model;
 
 namespace QuickSearch.Api
@@ -7,9 +7,11 @@ namespace QuickSearch.Api
     {
         Task<PagedResponse<ProductResponse>> GetAllProducts(int pageNumber, int pageSize, bool isFromElastic);
         Task<PagedResponse<ProductResponse>> GetAllIndexProducts(int pageNumber, int pageSize);
-        Task<ProductResponse?> GetProduct(long productId);
+        Task<ProductResponse?> GetProduct(long productId, bool isFromElastic = true);
         Task<PagedResponse<ProductResponse>> SearchProduct(ProductSearchRequest request);
         Task<PagedResponse<ProductResponse>> SearchIndexProducts(ProductSearchRequest request);
         Task<PagedResponse<ProductResponse>> SearchDatabaseProducts(ProductSearchRequest request);
+        Task<bool> UpdateProduct(ProductResponse product);
+        Task<bool> DeleteProduct(long productId);
     }
 }
